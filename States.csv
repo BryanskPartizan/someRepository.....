@@ -1,0 +1,4 @@
+TAG;Full Name;Provinces_ID;private_agr;private_extract;private_manufact;private_service;product_agr;product_extract;product_manufact;product_service;lower_tax;middle_tax;upper_tax;tax
+SDT;NaN;1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18;1;0.85;0.85;0.88;37511;70876;112544;154724;0.25;0.35;0.45;0.2
+SLA;NaN;19, 20, 21, 22, 23, 24, 25, 26, 27, 28;0.63;0.58;0.71;0.75;24155;49940;70044;82076;0.07;0.3;0.4;0.33
+LDA;NaN;29, 30, 31, 32, 33, 34, 35, 36, 37, 38;0.8;0.7;0.85;0.85;20484;45171;75676;83209;0.1;0.2;0.2;0.4
